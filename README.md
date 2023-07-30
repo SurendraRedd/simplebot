@@ -1,5 +1,4 @@
-# simplebot
-simplebot
+# Chat Bot
 
 
 ![Workflow](Flow.png)
